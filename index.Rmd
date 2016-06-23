@@ -1,0 +1,12 @@
+---
+title: "index"
+author: "Alan Zegers & Stijn Wijdeven"
+date: "June 23, 2016"
+output: html_document
+---
+
+---
+title: "My Website"
+---
+
+Hello, Website!
